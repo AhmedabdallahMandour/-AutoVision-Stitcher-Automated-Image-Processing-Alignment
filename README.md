@@ -1,0 +1,1 @@
+# -AutoVision-Stitcher-Automated-Image-Processing-Alignment
